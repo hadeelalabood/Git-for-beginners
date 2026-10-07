@@ -1,13 +1,14 @@
 def add_nums(a,b):
-  return a+b
+  return a + b
 
 def sub_nums(a,b):
-  return a-b
+  return a - b
 
 def divide_nums(a,b):
-  return a/b
+  return a / b
 
 def multiply_nums(a,b):
-  return a*b
+  return a * b
+
 def powwer(a,b):
-  return a**b
+  return a ** b
